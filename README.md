@@ -5,7 +5,9 @@ A Simple "V3" Version of osu!js-stable built off of V2.
 # Installation 
 
 If you want a version osu!js stable v3 SPECIFICLY for your platform, Try one of the links below.
-| [Windows 8.1+ (x32 + x64)](https://github.com/asherlr23/osujs-stable-v3/releases/latest/download/osujs(stable).exe)
+
+| [Windows 8.1+ (x32 + x64)](https://github.com/asherlr23/osujs-stable-v3/releases/latest/download/osujs(stable).exe) | | [HTML (browser-only)](https://github.com/ppy/osu/releases/latest/download/install.exe) 
+| ------------- | ------------- |
 # Conributing
 
 All you need is:
