@@ -21,14 +21,14 @@ Setup:
 
 Under Advanced the following setting should be set:
 
-60 FPS : True 
-Interpolation : False 
-High Quality Pen : Optional 
+60 FPS : True |
+Interpolation : False |
+High Quality Pen : Optional |
 ____________________________
 
-Infinite Clones : True 
-Remove Micealnious limits : True 
-Remove Fencing : True 
+Infinite Clones : True |
+Remove Micealnious limits : True |
+Remove Fencing : True |
 ____________________________
 
-Resolution : 1270 x 720 
+Resolution : 1270 x 720 |
